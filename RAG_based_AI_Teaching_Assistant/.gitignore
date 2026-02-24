@@ -1,0 +1,6 @@
+config.py
+videos/
+audios/
+jsons/
+__pycache__/
+embedding.joblib
